@@ -3,6 +3,7 @@
 # Overview
 This project focuses on utilizing 12 Graphic LCD 128x64 displays to showcase images and videos. The Graphic LCD displays are versatile visual components that can be programmed to exhibit a variety of graphical content, enhancing user interfaces and displaying dynamic information.
 
+![1](https://github.com/mohamedaymankills/Graphical-LCD-/blob/main/image1.jpg)
 # Features
 Multi-Display Support: Incorporates 12 Graphic LCD 128x64 displays simultaneously.
 
