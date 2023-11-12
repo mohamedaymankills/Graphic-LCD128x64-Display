@@ -13,6 +13,7 @@ Video Playback: Supports the playback of videos on the Graphic LCD displays.
 
 Versatile Integration: Ideal for projects requiring multiple visual outputs or creating immersive visual experiences.
 
+![2](https://github.com/mohamedaymankills/Graphical-LCD-/blob/main/image2.jpg)
 # Prerequisites
 Hardware: 12 Graphic LCD 128x64 displays.
 
